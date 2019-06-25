@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Final year CS undergrad, Shiv Nadar University
-Into Machine Learning for Computer Vision, Generative Modelling and Few-Shot Learning
+into Machine Learning for Computer Vision, Generative Modelling and Few-Shot Learning
 
 ### Contact me
 
